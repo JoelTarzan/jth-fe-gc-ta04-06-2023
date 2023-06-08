@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    font-weight: 600;
+}
+
+h3 {
+    margin: 0;
+}
+
+table {
+    text-align: center;
+    border: 2px lightgray solid;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+div {
+    border: 2px lightgray outset;
+}
+
+td {
+    width: 300px;
+    border: 2px lightgray solid;
+    font-size: 2rem;
+    box-shadow: inset 0 0 2px #aaaaaa;
+}
+
+#c1 {
+    background-color: #99FF99;
+}
+
+#c2 {
+    text-align: left;
+    background-color: #65FFFF;
+}
+
+#c6 {
+    text-align: right;
+    vertical-align: bottom;
+    background-color: #FF99FF;
+}
+
+.color-red {
+    color:  red;
+    box-shadow: inset 0 0 2px red;
+}
