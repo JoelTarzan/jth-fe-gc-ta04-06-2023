@@ -1,0 +1,27 @@
+body {
+    background-image: url(./../img/penguins.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: top;
+}
+
+table {
+    border-collapse: collapse;
+    width: 550px;
+    text-align: center;
+    margin: 11rem auto;
+    box-shadow: 1px 1px 2px black;
+}
+
+th, td {
+    text-transform: uppercase;
+    border: 3px lightgray ridge;
+}
+
+th {
+    background-color: white;
+}
+
+td {
+    background-color: #FFFF95;
+}
