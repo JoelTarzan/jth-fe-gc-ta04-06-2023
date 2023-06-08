@@ -1,0 +1,42 @@
+.external-div {
+    border: 1px rgb(106, 199, 236) solid;
+    width: fit-content;
+}
+
+.internal-div {
+    border: 2px white outset;
+    width: fit-content;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 2px solid rgb(106, 199, 236);
+    padding: 0 5px;
+    box-shadow: inset -1px -1px 1px rgb(236, 236, 236);
+}
+
+.first-row {
+    text-align: center;
+    color: #CDFDCD;
+    background-color: #003333;
+    text-transform: uppercase;
+}
+
+.odd {
+    background-color: #CCFFCC;
+}
+
+.pair {
+    background-color: #99CC99;
+}
+
+.center {
+    text-align: center;
+}
+
+.more-width {
+    width: 200px;
+}
