@@ -1,0 +1,50 @@
+body {
+    background-color: #FFFFCC;
+}
+
+table {
+    border: 1px black outset;
+    color: rgb(145, 12, 39);
+    text-align: center;
+    margin: 5rem auto;
+
+    background-image: url(./../img/huellas.png);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: 70%;
+}
+
+th {
+    text-transform: uppercase;
+}
+
+th, td {
+    border: 1px black groove;
+    font-weight: 400;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: -1px -1px black;
+}
+
+.table-title {
+    background-color: #669966;
+}
+
+.category-title {
+    background-color: #FFCC99;
+}
+
+.subcategory-title {
+    background-color: #FFFF99;
+}
+
+.col-1 {
+    width: 300px;
+}
+
+.col-2 {
+    width: 200px;
+}
+
+.col-3 {
+    width: 100px;
+}
